@@ -1,1 +1,1 @@
-# Harnessing-Screams-with-Tidal-Looper
+# Harnessing Screams with Tidal Looper
