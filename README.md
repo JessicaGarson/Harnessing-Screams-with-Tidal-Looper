@@ -47,6 +47,7 @@ Create a new file named `start_looper.scd` with the following content:
 ```SuperCollider
 ~dirt = SuperDirt.start;
 ~looper = TidalLooper(~dirt);
+```
 
 ## Code
 The code contained in the file `murder_by_modulation.tidal` origanates from my live performance at "Murder by Modulation." This event was hosted by the New York Modular Society during the fall at Trans Pecos.
