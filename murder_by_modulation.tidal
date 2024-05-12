@@ -1,0 +1,18 @@
+setcps 2
+
+linput = pI "linput"
+lname = pS "lname"
+
+once $ s "looper"
+
+d1 $ "bd drum! [bubble loop*3 control]" # leslie 0.3 # enhance 0.5
+
+d2 $ qtrigger 1 $ stack [s "olooper", s "loop", s "scream", s "gabba*7"]
+
+d3 $ s "seawolf*3 {loop! ~ scream:2}" # distort 1.2 # room 0.5
+
+d4 $ every 3 (fast 2) $ n "0 1 [~ 2] 3" # sound "arpy fest scream*6 outdoor {feel less}" # legato 0.3
+
+d5 $ "fire! ~ [sid*3 808*2]" # squiz 0.5 # decay 0.3
+
+d6 $ chop 16 $ "scream:3 loop*5 scream:4"  # detune 0.3
