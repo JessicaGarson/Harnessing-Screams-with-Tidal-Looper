@@ -1,8 +1,5 @@
 setcps 2
 
-linput = pI "linput"
-lname = pS "lname"
-
 once $ s "looper"
 
 d1 $ "bd drum! [bubble loop*3 control]" # leslie 0.3 # enhance 0.5
