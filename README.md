@@ -15,7 +15,7 @@ You follow along along ensure you have the following:
 Here's what I currently use for my performances:
 
 - **Motu M4 Audio Interface**
-- **Shure SM-52 Microphone with a Switch**: The switch is crucial as it helps manage feedback during performances, allowing for dynamic control.
+- **Shure SM-58 Microphone with a Switch**: The switch is crucial as it helps manage feedback during performances, allowing for dynamic control.
 
 ### Initial Setup
 
