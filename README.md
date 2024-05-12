@@ -1,6 +1,6 @@
 # Harnessing Screams with Tidal Looper
 
-This repository contains code samples that accompany the blog post "Harnessing Screams with Tidal Looper" on getting started with Tidal Looper.
+This repository contains code samples that accompany the blog post "[Harnessing Screams with Tidal Looper](https://dev.to/jessicagarson/harnessing-screams-with-tidal-looper-5hhp)" on getting started with Tidal Looper.
 
 ## Prerequisites
 
